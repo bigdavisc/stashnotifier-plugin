@@ -3,7 +3,7 @@
     <parent>
         <groupId>org.jenkins-ci.plugins</groupId>
         <artifactId>plugin</artifactId>
-        <version>4.82</version>
+        <version>4.86</version>
         <relativePath />
     </parent>
     <packaging>hpi</packaging>
@@ -11,7 +11,7 @@
         <revision>1</revision>
         <changelist>999999-SNAPSHOT</changelist>
         <!-- Baseline Jenkins version you use to build the plugin. Users must have this version or newer to run. -->
-        <jenkins.version>2.426.3</jenkins.version>
+        <jenkins.version>2.440.3</jenkins.version>
         <hpi.compatibleSinceVersion>1.9</hpi.compatibleSinceVersion>
     </properties>
     <artifactId>stashNotifier</artifactId>
@@ -80,8 +80,8 @@
         <dependencies>
             <dependency>
                 <groupId>io.jenkins.tools.bom</groupId>
-                <artifactId>bom-2.426.x</artifactId>
-                <version>3080.vfa_b_e4a_a_39b_44</version>
+                <artifactId>bom-2.440.x</artifactId>
+                <version>3258.vcdcf15936a_fd</version>
                 <scope>import</scope>
                 <type>pom</type>
             </dependency>

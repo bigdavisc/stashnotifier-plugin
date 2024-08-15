@@ -7,7 +7,6 @@ import hudson.util.FormValidation;
 import hudson.util.ListBoxModel;
 import jenkins.model.Jenkins;
 import net.sf.json.JSONObject;
-import org.acegisecurity.Authentication;
 import org.junit.AfterClass;
 import org.junit.BeforeClass;
 import org.junit.Test;
