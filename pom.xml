@@ -9,7 +9,7 @@
     <packaging>hpi</packaging>
     <properties>
         <revision>1</revision>
-        <changelist>999999-SNAPSHOT</changelist>
+        <changelist>507.vb_7300a_1a_a_d10-ENHANCEDAPI</changelist>
         <!-- Baseline Jenkins version you use to build the plugin. Users must have this version or newer to run. -->
         <jenkins.version>2.440.3</jenkins.version>
         <hpi.compatibleSinceVersion>1.9</hpi.compatibleSinceVersion>
